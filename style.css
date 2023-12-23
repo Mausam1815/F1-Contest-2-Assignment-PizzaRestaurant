@@ -382,6 +382,8 @@ nav {
     grid-template-columns: auto auto;
 }
 .card {
+    background-color: black;
+    color: white;
     display: grid;
     grid-template-columns: auto auto;
     align-items: center;
